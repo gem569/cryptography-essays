@@ -17,7 +17,7 @@ They are intended as standalone expository pieces demonstrating mathematical und
 ### 1. Elliptic Curve Cryptography (ECC)
 - Topics covered: elliptic curves over finite fields, group law, discrete logarithm problem, and cryptographic applications.
 - Focus: foundational structure of ECC and why it is secure for classical cryptography.
-- File: `ECC_essay.pdf`
+- File: `ecc.pdf`
 
 ---
 
