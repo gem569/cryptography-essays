@@ -17,12 +17,12 @@ They are intended as standalone expository pieces demonstrating mathematical und
 ### 1. Elliptic Curve Cryptography (ECC)
 - Topics covered: elliptic curves over finite fields, group law, discrete logarithm problem, and cryptographic applications.
 - Focus: foundational structure of ECC and why it is secure for classical cryptography.
-- [File] (ecc.pdf)
+- [File](ecc.pdf)
 
 ---
 
 ### 2. Isogeny-Based Cryptography
 - Topics covered: isogenies between elliptic curves, supersingular isogeny graphs, and post-quantum cryptographic schemes.
 - Focus: motivation for isogeny-based systems and their role in post-quantum security.
-- [File] (isogeny-based-crypto.pdf)
+- [File](isogeny-based-crypto.pdf)
 
