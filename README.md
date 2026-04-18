@@ -24,5 +24,5 @@ They are intended as standalone expository pieces demonstrating mathematical und
 ### 2. Isogeny-Based Cryptography
 - Topics covered: isogenies between elliptic curves, supersingular isogeny graphs, and post-quantum cryptographic schemes.
 - Focus: motivation for isogeny-based systems and their role in post-quantum security.
-- [Isogeny-based Cryptography - essay](isogeny-based-crypto.pdf)
+- [Isogeny-based Cryptography - essay](isog-based-crypto.pdf)
 
